@@ -1,8 +1,15 @@
 # odin-recipes
-odin-recipes
 
+PROJECT:
 basic recipe website
 
-Project goals are to create a simple main index page which has links to recipes
+    GOALS:
 
-Skills practiced are Git and HTML
+    -Serve multiple recipe webpages from an index page
+
+    SKILLS:
+    - Git Staging, Commiting, and Pushing to GITHUB
+    - HTML Boilerplate
+    - Headings
+    - Ordered/Unordered Lists
+    - Image Insertion via relative PATHS
