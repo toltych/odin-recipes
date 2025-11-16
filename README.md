@@ -1,5 +1,7 @@
 # odin-recipes
 
+Finished Project [HERE](https://toltych.github.io/odin-recipes/)
+
 PROJECT:
 basic recipe website
 
