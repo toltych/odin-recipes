@@ -1,17 +1,18 @@
 # odin-recipes
 
-Finished Project [HERE](https://toltych.github.io/odin-recipes/)
+Finished Project [HERE](https://toltych.github.io/odin-recipes)
 
 PROJECT:
-basic recipe website
+recipe website
+    
+GOALS:
 
-    GOALS:
+- Serve multiple recipe webpages from an index page
+    
+SKILLS Practiced:
 
-    -Serve multiple recipe webpages from an index page
-
-    SKILLS:
-    - Git Staging, Commiting, and Pushing to GITHUB
-    - HTML Boilerplate
-    - Headings
-    - Ordered/Unordered Lists
-    - Image Insertion via relative PATHS
+- Git Staging, Commiting, and Pushing to GITHUB
+- HTML Boilerplate
+- Headings
+- Ordered/Unordered Lists
+- Image Insertion via relative PATHS
