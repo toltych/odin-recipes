@@ -7,7 +7,7 @@ recipe website
     
 GOALS:
 
-- Serve multiple recipe webpages from an index page outlined by [Odin Project Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
+- Serve multiple recipe webpages from an index page outlined by [Odin Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
     
 SKILLS Practiced:
 
