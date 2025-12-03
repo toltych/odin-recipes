@@ -1,6 +1,6 @@
 # odin-recipes
 
-Finished Project [HERE](https://toltych.github.io/odin-recipes)
+Finished Project [Live Demo](https://toltych.github.io/odin-recipes)
 
 PROJECT:
 recipe website
